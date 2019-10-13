@@ -1,14 +1,15 @@
-<h1 align="center">🎉 shirotelin 🎉</h1>
+<h1 align="center">🎉 shirotelin for Visual Studio Code 🎉</h1>
 
 <p align="center">shirotelin is Ultimate standard New Classical light colorscheme for Visual Studio Code!</p>
 
-> Main repository is [shirotelin](https://github.com/yasukotelin/shirotelin) for Vim.
-
 Ultimate standard light color scheme "shirotelin" is inspired by Eclipse, notepad++, InteliJ, Visual Studio, Hidemaru editor, sakura editor, and more⚡
 
-**Caution!**
+- [shirotelin](https://github.com/yasukotelin/shirotelin) for Vim (this is main repository).
+- [shirotelin](https://github.com/yasukotelin/shirotelin-intellij) for Jetbrains IDE.
 
-This repository is in development.
+<img src="./images/shirotelin-vscode.png" alt="shirotelin for vscode">
+
+<img src="./images/shirotelin-vscode-demo.gif" alt="shirotelin for vscode demo gif">
 
 ## Licence
 

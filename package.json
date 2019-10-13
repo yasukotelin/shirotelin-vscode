@@ -2,13 +2,22 @@
     "name": "shirotelin",
     "displayName": "shirotelin",
     "description": "shirotelin is Ultimate standard New Classical light colorscheme for Visual Studio Code!",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "license": "MIT",
+    "publisher": "yasukotelin",
     "engines": {
         "vscode": "^1.38.0"
     },
     "categories": [
         "Themes"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yasukotelin/shirotelin-vscode.git"
+    },
+    "bugs": {
+        "url": "https://github.com/yasukotelin/shirotelin-vscode/issues"
+    },
     "contributes": {
         "themes": [
             {
