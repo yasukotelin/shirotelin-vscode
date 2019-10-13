@@ -7,9 +7,9 @@ Ultimate standard light color scheme "shirotelin" is inspired by Eclipse, notepa
 - [shirotelin](https://github.com/yasukotelin/shirotelin) for Vim (this is main repository).
 - [shirotelin](https://github.com/yasukotelin/shirotelin-intellij) for Jetbrains IDE.
 
-<img src="./images/shirotelin-vscode.png" alt="shirotelin for vscode">
+![shirotelin for vscode](https://github.com/yasukotelin/shirotelin-vscode/blob/master/images/shirotelin-vscode.png?raw=true)
 
-<img src="./images/shirotelin-vscode-demo.gif" alt="shirotelin for vscode demo gif">
+![shirotelin for vscode demo](https://github.com/yasukotelin/shirotelin-vscode/blob/master/images/shirotelin-vscode-demo.gif?raw=true)
 
 ## Licence
 
