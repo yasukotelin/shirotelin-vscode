@@ -19,11 +19,20 @@
 		"menu.selectionBackground": "#000080",
 		"menu.selectionForeground": "#FFFFFF",
 
+		"sideBar.background": "#FFFFFF",
+		"sideBar.border": "#CFCFCF",
+
+		"titleBar.activeBackground": "#FFFFFF",
+		"titleBar.activeForeground": "#000000",
+		"titleBar.inactiveBackground": "#FFFFFF",
+		"titleBar.inactiveForeground": "#000000",
+		"titleBar.border": "#CFCFCF",
+
 		"statusBar.background": "#000080",
 		"statusBar.foreground": "#FFFFFF",
 
-		"list.activeSelectionBackground": "#CDE8FF",
-		"list.activeSelectionForeground": "#000000",
+		"list.activeSelectionBackground": "#000080",
+		"list.activeSelectionForeground": "#FFFFFF",
 		"list.inactiveSelectionBackground": "#E4E4E4",
 		"list.inactiveSelectionForeground": "#000000",
 
@@ -33,8 +42,27 @@
 		"diffEditor.insertedTextBackground": "#60FF87",
 		"diffEditor.removedTextBackground": "#FFC8C8",
 
+		"editorLineNumber.foreground": "#545454",
+		"editorLineNumber.activeForeground": "#005f5f",
+
 		"terminal.background": "#000000",
-		"terminal.foreground": "#FFFFFF"
+		"terminal.foreground": "#FFFFFF",
+		"terminal.ansiBrightWhite": "#FFFFFF",
+		"terminal.ansiWhite": "#FFFFFF",
+		"terminal.ansiBrightBlack": "#000000",
+		"terminal.ansiBlack": "#000000",
+		"terminal.ansiBrightRed": "#FF8785",
+		"terminal.ansiRed": "#FF6B68",
+		"terminal.ansiBrightYellow": "#FFFF00",
+		"terminal.ansiYellow": "#D6BF55",
+		"terminal.ansiBrightBlue": "#7EAEF1",
+		"terminal.ansiBlue": "#5394EC",
+		"terminal.ansiBrightCyan": "#6CDADA",
+		"terminal.ansiCyan": "#299999",
+		"terminal.ansiBrightGreen": "#AACC00",
+		"terminal.ansiGreen": "#A8C023",
+		"terminal.ansiBrightMagenta": "#FF99FF",
+		"terminal.ansiMagenta": "#AE8ABE"
 	},
 	"tokenColors": [
 		{
