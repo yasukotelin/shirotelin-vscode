@@ -251,7 +251,7 @@
 				"punctuation.definition.tag.end.html"
 			],
 			"settings": {
-				"fontStyle": "bold",
+				// "fontStyle": "bold",
 				"foreground": "#00005F"
 			}
 		},
@@ -271,7 +271,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#005f5f"
+				"foreground": "#00005F"
 			}
 		},
 		{
