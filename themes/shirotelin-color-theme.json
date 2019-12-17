@@ -2,6 +2,9 @@
 	"name": "shirotelin",
 	"type": "light",
 	"colors": {
+		"foreground": "#000000",
+		"badge.background": "#005f5f",
+		"badge.foreground": "#FFFFFF",
 		"editor.background": "#FFFFFF",
 		"editor.foreground": "#000000",
 		"editor.selectionBackground": "#CDE8FF",
@@ -271,7 +274,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#00005F"
+				"foreground": "#875f5f"
 			}
 		},
 		{
