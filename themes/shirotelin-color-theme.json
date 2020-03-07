@@ -3,7 +3,7 @@
 	"type": "light",
 	"colors": {
 		"foreground": "#000000",
-		"badge.background": "#005f5f",
+		"badge.background": "#000080",
 		"badge.foreground": "#FFFFFF",
 		"editor.background": "#FFFFFF",
 		"editor.foreground": "#000000",
