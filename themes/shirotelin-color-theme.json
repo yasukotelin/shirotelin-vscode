@@ -20,6 +20,7 @@
 		"editorBracketMatch.background": "#ffc7fe",
 		"sideBar.background": "#FFFFFF",
 		"sideBar.border": "#9e9e9e",
+		"sideBarSectionHeader.background": "#EEEEEE",
 		"titleBar.activeBackground": "#FFFFFF",
 		"titleBar.activeForeground": "#000000",
 		"titleBar.inactiveBackground": "#FFFFFF",
